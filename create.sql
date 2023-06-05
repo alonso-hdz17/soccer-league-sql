@@ -1,2 +1,1 @@
-SELECT
-  NOW()
+CREATE TABLE TEAMS(team_id int PRIMARY KEY(), team_name varchar(32));
